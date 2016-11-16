@@ -1,0 +1,1 @@
+Place Zorkish.exe and Grass World.txt into the same directory, then run Zorkish.exe to play.

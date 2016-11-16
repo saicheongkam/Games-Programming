@@ -1,0 +1,5 @@
+Grass World.,Plants are everywhere. Nature has taken control of this part of the world.,
+1,Lush Meadow.,You stand in a lush green meadow. Flowers are beginning to pop up through the soft green grass that dance with the wind. Head south to the forest or go north into the grassy valley.,N2S3,
+2,Valley.,This area is darkened by shadows cast by the two tall hills that sandwich it. There is a beautiful green meadow to your south.,S1,
+3,Forest.,Be careful of what might be hiding amongst these rain-damaged trees. A hut sits on your west at the forest's edge. Head north to venture into the meadow.,N1W4,
+4,Hut.,An escape from nature. This warm and cozy hut seems a bit out of place in this grassland. Head east to venture into the gloomy forest.,E3,
